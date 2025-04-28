@@ -1,0 +1,1573 @@
+{
+  "metadata": {
+    "satellite_name": "IONOSFERA-M",
+    "norad_id": 61736,
+    "observer": {
+      "latitude": 56.28,
+      "longitude": 162.5,
+      "elevation_m": 150
+    },
+    "calculation_parameters": {
+      "start": "2025-04-28T00:00:00+00:00",
+      "end": "2025-04-28T12:00:00+00:00",
+      "step_seconds": 10,
+      "min_elevation_deg": 10.0
+    }
+  },
+  "ephemeris": [
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:13:10+00:00",
+      "geodesic": {
+        "lat": 67.543775,
+        "lon": -163.57059,
+        "height_m": 826768.61
+      },
+      "relative": {
+        "elevation": 10.217,
+        "azimuth": 40.559,
+        "distance_km": 2406.654
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:13:20+00:00",
+      "geodesic": {
+        "lat": 67.00016,
+        "lon": -164.213388,
+        "height_m": 826678.9
+      },
+      "relative": {
+        "elevation": 10.827,
+        "azimuth": 41.896,
+        "distance_km": 2361.564
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:13:30+00:00",
+      "geodesic": {
+        "lat": 66.454334,
+        "lon": -164.82989,
+        "height_m": 826587.26
+      },
+      "relative": {
+        "elevation": 11.438,
+        "azimuth": 43.288,
+        "distance_km": 2317.58
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:13:40+00:00",
+      "geodesic": {
+        "lat": 65.906445,
+        "lon": -165.421792,
+        "height_m": 826493.73
+      },
+      "relative": {
+        "elevation": 12.05,
+        "azimuth": 44.738,
+        "distance_km": 2274.774
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:13:50+00:00",
+      "geodesic": {
+        "lat": 65.356627,
+        "lon": -165.990656,
+        "height_m": 826398.36
+      },
+      "relative": {
+        "elevation": 12.66,
+        "azimuth": 46.247,
+        "distance_km": 2233.217
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:00+00:00",
+      "geodesic": {
+        "lat": 64.805001,
+        "lon": -166.537921,
+        "height_m": 826301.2
+      },
+      "relative": {
+        "elevation": 13.267,
+        "azimuth": 47.819,
+        "distance_km": 2192.986
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:10+00:00",
+      "geodesic": {
+        "lat": 64.251681,
+        "lon": -167.064916,
+        "height_m": 826202.3
+      },
+      "relative": {
+        "elevation": 13.87,
+        "azimuth": 49.455,
+        "distance_km": 2154.16
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:20+00:00",
+      "geodesic": {
+        "lat": 63.69677,
+        "lon": -167.572868,
+        "height_m": 826101.73
+      },
+      "relative": {
+        "elevation": 14.465,
+        "azimuth": 51.158,
+        "distance_km": 2116.821
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:30+00:00",
+      "geodesic": {
+        "lat": 63.140362,
+        "lon": -168.062913,
+        "height_m": 825999.54
+      },
+      "relative": {
+        "elevation": 15.051,
+        "azimuth": 52.927,
+        "distance_km": 2081.055
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:40+00:00",
+      "geodesic": {
+        "lat": 62.582546,
+        "lon": -168.536101,
+        "height_m": 825895.78
+      },
+      "relative": {
+        "elevation": 15.624,
+        "azimuth": 54.766,
+        "distance_km": 2046.948
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:14:50+00:00",
+      "geodesic": {
+        "lat": 62.023402,
+        "lon": -168.993406,
+        "height_m": 825790.51
+      },
+      "relative": {
+        "elevation": 16.183,
+        "azimuth": 56.675,
+        "distance_km": 2014.588
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:00+00:00",
+      "geodesic": {
+        "lat": 61.463005,
+        "lon": -169.435734,
+        "height_m": 825683.8
+      },
+      "relative": {
+        "elevation": 16.723,
+        "azimuth": 58.653,
+        "distance_km": 1984.066
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:10+00:00",
+      "geodesic": {
+        "lat": 60.901423,
+        "lon": -169.863923,
+        "height_m": 825575.69
+      },
+      "relative": {
+        "elevation": 17.242,
+        "azimuth": 60.702,
+        "distance_km": 1955.471
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:20+00:00",
+      "geodesic": {
+        "lat": 60.33872,
+        "lon": -170.278754,
+        "height_m": 825466.25
+      },
+      "relative": {
+        "elevation": 17.735,
+        "azimuth": 62.819,
+        "distance_km": 1928.893
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:30+00:00",
+      "geodesic": {
+        "lat": 59.774956,
+        "lon": -170.680953,
+        "height_m": 825355.54
+      },
+      "relative": {
+        "elevation": 18.199,
+        "azimuth": 65.003,
+        "distance_km": 1904.42
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:40+00:00",
+      "geodesic": {
+        "lat": 59.210185,
+        "lon": -171.071199,
+        "height_m": 825243.62
+      },
+      "relative": {
+        "elevation": 18.63,
+        "azimuth": 67.253,
+        "distance_km": 1882.138
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:15:50+00:00",
+      "geodesic": {
+        "lat": 58.644459,
+        "lon": -171.450121,
+        "height_m": 825130.55
+      },
+      "relative": {
+        "elevation": 19.025,
+        "azimuth": 69.563,
+        "distance_km": 1862.127
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:00+00:00",
+      "geodesic": {
+        "lat": 58.077826,
+        "lon": -171.81831,
+        "height_m": 825016.41
+      },
+      "relative": {
+        "elevation": 19.378,
+        "azimuth": 71.931,
+        "distance_km": 1844.466
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:10+00:00",
+      "geodesic": {
+        "lat": 57.510328,
+        "lon": -172.176317,
+        "height_m": 824901.24
+      },
+      "relative": {
+        "elevation": 19.688,
+        "azimuth": 74.35,
+        "distance_km": 1829.224
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:20+00:00",
+      "geodesic": {
+        "lat": 56.942008,
+        "lon": -172.524656,
+        "height_m": 824785.13
+      },
+      "relative": {
+        "elevation": 19.95,
+        "azimuth": 76.814,
+        "distance_km": 1816.466
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:30+00:00",
+      "geodesic": {
+        "lat": 56.372905,
+        "lon": -172.863811,
+        "height_m": 824668.12
+      },
+      "relative": {
+        "elevation": 20.161,
+        "azimuth": 79.317,
+        "distance_km": 1806.245
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:40+00:00",
+      "geodesic": {
+        "lat": 55.803053,
+        "lon": -173.194234,
+        "height_m": 824550.29
+      },
+      "relative": {
+        "elevation": 20.319,
+        "azimuth": 81.851,
+        "distance_km": 1798.606
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:16:50+00:00",
+      "geodesic": {
+        "lat": 55.232488,
+        "lon": -173.516348,
+        "height_m": 824431.71
+      },
+      "relative": {
+        "elevation": 20.421,
+        "azimuth": 84.406,
+        "distance_km": 1793.585
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:00+00:00",
+      "geodesic": {
+        "lat": 54.661241,
+        "lon": -173.830553,
+        "height_m": 824312.44
+      },
+      "relative": {
+        "elevation": 20.468,
+        "azimuth": 86.974,
+        "distance_km": 1791.204
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:10+00:00",
+      "geodesic": {
+        "lat": 54.089341,
+        "lon": -174.137221,
+        "height_m": 824192.55
+      },
+      "relative": {
+        "elevation": 20.457,
+        "azimuth": 89.546,
+        "distance_km": 1791.476
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:20+00:00",
+      "geodesic": {
+        "lat": 53.516815,
+        "lon": -174.436706,
+        "height_m": 824072.11
+      },
+      "relative": {
+        "elevation": 20.39,
+        "azimuth": 92.111,
+        "distance_km": 1794.398
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:30+00:00",
+      "geodesic": {
+        "lat": 52.943692,
+        "lon": -174.729338,
+        "height_m": 823951.19
+      },
+      "relative": {
+        "elevation": 20.266,
+        "azimuth": 94.662,
+        "distance_km": 1799.96
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:40+00:00",
+      "geodesic": {
+        "lat": 52.369994,
+        "lon": -175.01543,
+        "height_m": 823829.86
+      },
+      "relative": {
+        "elevation": 20.087,
+        "azimuth": 97.189,
+        "distance_km": 1808.136
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:17:50+00:00",
+      "geodesic": {
+        "lat": 51.795745,
+        "lon": -175.295275,
+        "height_m": 823708.18
+      },
+      "relative": {
+        "elevation": 19.856,
+        "azimuth": 99.684,
+        "distance_km": 1818.892
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:00+00:00",
+      "geodesic": {
+        "lat": 51.220967,
+        "lon": -175.569152,
+        "height_m": 823586.23
+      },
+      "relative": {
+        "elevation": 19.575,
+        "azimuth": 102.138,
+        "distance_km": 1832.181
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:10+00:00",
+      "geodesic": {
+        "lat": 50.645681,
+        "lon": -175.837323,
+        "height_m": 823464.07
+      },
+      "relative": {
+        "elevation": 19.247,
+        "azimuth": 104.545,
+        "distance_km": 1847.948
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:20+00:00",
+      "geodesic": {
+        "lat": 50.069905,
+        "lon": -176.100035,
+        "height_m": 823341.79
+      },
+      "relative": {
+        "elevation": 18.876,
+        "azimuth": 106.9,
+        "distance_km": 1866.129
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:30+00:00",
+      "geodesic": {
+        "lat": 49.493659,
+        "lon": -176.357522,
+        "height_m": 823219.44
+      },
+      "relative": {
+        "elevation": 18.465,
+        "azimuth": 109.196,
+        "distance_km": 1886.654
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:40+00:00",
+      "geodesic": {
+        "lat": 48.91696,
+        "lon": -176.610008,
+        "height_m": 823097.11
+      },
+      "relative": {
+        "elevation": 18.018,
+        "azimuth": 111.429,
+        "distance_km": 1909.444
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:18:50+00:00",
+      "geodesic": {
+        "lat": 48.339824,
+        "lon": -176.857701,
+        "height_m": 822974.86
+      },
+      "relative": {
+        "elevation": 17.539,
+        "azimuth": 113.597,
+        "distance_km": 1934.419
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:00+00:00",
+      "geodesic": {
+        "lat": 47.762267,
+        "lon": -177.1008,
+        "height_m": 822852.76
+      },
+      "relative": {
+        "elevation": 17.032,
+        "azimuth": 115.697,
+        "distance_km": 1961.493
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:10+00:00",
+      "geodesic": {
+        "lat": 47.184304,
+        "lon": -177.339496,
+        "height_m": 822730.89
+      },
+      "relative": {
+        "elevation": 16.501,
+        "azimuth": 117.728,
+        "distance_km": 1990.577
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:20+00:00",
+      "geodesic": {
+        "lat": 46.605948,
+        "lon": -177.573966,
+        "height_m": 822609.32
+      },
+      "relative": {
+        "elevation": 15.948,
+        "azimuth": 119.688,
+        "distance_km": 2021.584
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:30+00:00",
+      "geodesic": {
+        "lat": 46.027214,
+        "lon": -177.804381,
+        "height_m": 822488.13
+      },
+      "relative": {
+        "elevation": 15.379,
+        "azimuth": 121.578,
+        "distance_km": 2054.422
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:40+00:00",
+      "geodesic": {
+        "lat": 45.448114,
+        "lon": -178.030904,
+        "height_m": 822367.38
+      },
+      "relative": {
+        "elevation": 14.795,
+        "azimuth": 123.398,
+        "distance_km": 2089.004
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:19:50+00:00",
+      "geodesic": {
+        "lat": 44.86866,
+        "lon": -178.253687,
+        "height_m": 822247.14
+      },
+      "relative": {
+        "elevation": 14.2,
+        "azimuth": 125.149,
+        "distance_km": 2125.24
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:00+00:00",
+      "geodesic": {
+        "lat": 44.288863,
+        "lon": -178.472878,
+        "height_m": 822127.49
+      },
+      "relative": {
+        "elevation": 13.596,
+        "azimuth": 126.832,
+        "distance_km": 2163.045
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:10+00:00",
+      "geodesic": {
+        "lat": 43.708735,
+        "lon": -178.688615,
+        "height_m": 822008.51
+      },
+      "relative": {
+        "elevation": 12.985,
+        "azimuth": 128.449,
+        "distance_km": 2202.333
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:20+00:00",
+      "geodesic": {
+        "lat": 43.128287,
+        "lon": -178.901033,
+        "height_m": 821890.26
+      },
+      "relative": {
+        "elevation": 12.371,
+        "azimuth": 130.003,
+        "distance_km": 2243.025
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:30+00:00",
+      "geodesic": {
+        "lat": 42.547528,
+        "lon": -179.110256,
+        "height_m": 821772.82
+      },
+      "relative": {
+        "elevation": 11.754,
+        "azimuth": 131.494,
+        "distance_km": 2285.04
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:40+00:00",
+      "geodesic": {
+        "lat": 41.966468,
+        "lon": -179.316408,
+        "height_m": 821656.25
+      },
+      "relative": {
+        "elevation": 11.136,
+        "azimuth": 132.925,
+        "distance_km": 2328.304
+      }
+    },
+    {
+      "pass_id": 1,
+      "timestamp": "2025-04-28T09:20:50+00:00",
+      "geodesic": {
+        "lat": 41.385116,
+        "lon": -179.519602,
+        "height_m": 821540.64
+      },
+      "relative": {
+        "elevation": 10.518,
+        "azimuth": 134.299,
+        "distance_km": 2372.744
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:52:30+00:00",
+      "geodesic": {
+        "lat": 73.644943,
+        "lon": -178.662329,
+        "height_m": 827657.28
+      },
+      "relative": {
+        "elevation": 10.61,
+        "azimuth": 16.317,
+        "distance_km": 2378.968
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:52:40+00:00",
+      "geodesic": {
+        "lat": 73.144455,
+        "lon": -179.802056,
+        "height_m": 827593.56
+      },
+      "relative": {
+        "elevation": 11.519,
+        "azimuth": 16.317,
+        "distance_km": 2313.531
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:52:50+00:00",
+      "geodesic": {
+        "lat": 72.638429,
+        "lon": 179.120032,
+        "height_m": 827527.41
+      },
+      "relative": {
+        "elevation": 12.463,
+        "azimuth": 16.314,
+        "distance_km": 2248.306
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:00+00:00",
+      "geodesic": {
+        "lat": 72.127331,
+        "lon": 178.09928,
+        "height_m": 827458.85
+      },
+      "relative": {
+        "elevation": 13.446,
+        "azimuth": 16.308,
+        "distance_km": 2183.32
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:10+00:00",
+      "geodesic": {
+        "lat": 71.61158,
+        "lon": 177.131418,
+        "height_m": 827387.92
+      },
+      "relative": {
+        "elevation": 14.47,
+        "azimuth": 16.299,
+        "distance_km": 2118.604
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:20+00:00",
+      "geodesic": {
+        "lat": 71.091552,
+        "lon": 176.212536,
+        "height_m": 827314.66
+      },
+      "relative": {
+        "elevation": 15.54,
+        "azimuth": 16.286,
+        "distance_km": 2054.189
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:30+00:00",
+      "geodesic": {
+        "lat": 70.567589,
+        "lon": 175.339057,
+        "height_m": 827239.12
+      },
+      "relative": {
+        "elevation": 16.66,
+        "azimuth": 16.268,
+        "distance_km": 1990.114
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:40+00:00",
+      "geodesic": {
+        "lat": 70.039995,
+        "lon": 174.507704,
+        "height_m": 827161.33
+      },
+      "relative": {
+        "elevation": 17.834,
+        "azimuth": 16.247,
+        "distance_km": 1926.419
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:53:50+00:00",
+      "geodesic": {
+        "lat": 69.509048,
+        "lon": 173.715478,
+        "height_m": 827081.34
+      },
+      "relative": {
+        "elevation": 19.067,
+        "azimuth": 16.22,
+        "distance_km": 1863.152
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:00+00:00",
+      "geodesic": {
+        "lat": 68.974997,
+        "lon": 172.95963,
+        "height_m": 826999.18
+      },
+      "relative": {
+        "elevation": 20.366,
+        "azimuth": 16.187,
+        "distance_km": 1800.363
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:10+00:00",
+      "geodesic": {
+        "lat": 68.438069,
+        "lon": 172.237643,
+        "height_m": 826914.91
+      },
+      "relative": {
+        "elevation": 21.737,
+        "azimuth": 16.148,
+        "distance_km": 1738.114
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:20+00:00",
+      "geodesic": {
+        "lat": 67.89847,
+        "lon": 171.547207,
+        "height_m": 826828.58
+      },
+      "relative": {
+        "elevation": 23.188,
+        "azimuth": 16.101,
+        "distance_km": 1676.471
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:30+00:00",
+      "geodesic": {
+        "lat": 67.356388,
+        "lon": 170.886202,
+        "height_m": 826740.22
+      },
+      "relative": {
+        "elevation": 24.725,
+        "azimuth": 16.045,
+        "distance_km": 1615.511
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:40+00:00",
+      "geodesic": {
+        "lat": 66.811993,
+        "lon": 170.252682,
+        "height_m": 826649.88
+      },
+      "relative": {
+        "elevation": 26.359,
+        "azimuth": 15.98,
+        "distance_km": 1555.322
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:54:50+00:00",
+      "geodesic": {
+        "lat": 66.265439,
+        "lon": 169.644856,
+        "height_m": 826557.63
+      },
+      "relative": {
+        "elevation": 28.099,
+        "azimuth": 15.902,
+        "distance_km": 1496.004
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:00+00:00",
+      "geodesic": {
+        "lat": 65.71687,
+        "lon": 169.061077,
+        "height_m": 826463.5
+      },
+      "relative": {
+        "elevation": 29.957,
+        "azimuth": 15.811,
+        "distance_km": 1437.672
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:10+00:00",
+      "geodesic": {
+        "lat": 65.166415,
+        "lon": 168.499826,
+        "height_m": 826367.55
+      },
+      "relative": {
+        "elevation": 31.946,
+        "azimuth": 15.704,
+        "distance_km": 1380.458
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:20+00:00",
+      "geodesic": {
+        "lat": 64.614193,
+        "lon": 167.959703,
+        "height_m": 826269.83
+      },
+      "relative": {
+        "elevation": 34.079,
+        "azimuth": 15.577,
+        "distance_km": 1324.514
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:30+00:00",
+      "geodesic": {
+        "lat": 64.060313,
+        "lon": 167.439415,
+        "height_m": 826170.39
+      },
+      "relative": {
+        "elevation": 36.371,
+        "azimuth": 15.425,
+        "distance_km": 1270.014
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:40+00:00",
+      "geodesic": {
+        "lat": 63.504875,
+        "lon": 166.937769,
+        "height_m": 826069.3
+      },
+      "relative": {
+        "elevation": 38.838,
+        "azimuth": 15.244,
+        "distance_km": 1217.16
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:55:50+00:00",
+      "geodesic": {
+        "lat": 62.947972,
+        "lon": 166.453658,
+        "height_m": 825966.61
+      },
+      "relative": {
+        "elevation": 41.498,
+        "azimuth": 15.026,
+        "distance_km": 1166.181
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:00+00:00",
+      "geodesic": {
+        "lat": 62.389689,
+        "lon": 165.986059,
+        "height_m": 825862.36
+      },
+      "relative": {
+        "elevation": 44.369,
+        "azimuth": 14.76,
+        "distance_km": 1117.34
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:10+00:00",
+      "geodesic": {
+        "lat": 61.830105,
+        "lon": 165.534022,
+        "height_m": 825756.63
+      },
+      "relative": {
+        "elevation": 47.467,
+        "azimuth": 14.431,
+        "distance_km": 1070.936
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:20+00:00",
+      "geodesic": {
+        "lat": 61.269292,
+        "lon": 165.096667,
+        "height_m": 825649.47
+      },
+      "relative": {
+        "elevation": 50.809,
+        "azimuth": 14.018,
+        "distance_km": 1027.306
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:30+00:00",
+      "geodesic": {
+        "lat": 60.707316,
+        "lon": 164.673175,
+        "height_m": 825540.93
+      },
+      "relative": {
+        "elevation": 54.409,
+        "azimuth": 13.488,
+        "distance_km": 986.822
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:40+00:00",
+      "geodesic": {
+        "lat": 60.144241,
+        "lon": 164.262783,
+        "height_m": 825431.09
+      },
+      "relative": {
+        "elevation": 58.274,
+        "azimuth": 12.788,
+        "distance_km": 949.891
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:56:50+00:00",
+      "geodesic": {
+        "lat": 59.580124,
+        "lon": 163.864785,
+        "height_m": 825320.0
+      },
+      "relative": {
+        "elevation": 62.405,
+        "azimuth": 11.829,
+        "distance_km": 916.949
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:00+00:00",
+      "geodesic": {
+        "lat": 59.015019,
+        "lon": 163.478517,
+        "height_m": 825207.72
+      },
+      "relative": {
+        "elevation": 66.791,
+        "azimuth": 10.445,
+        "distance_km": 888.443
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:10+00:00",
+      "geodesic": {
+        "lat": 58.448975,
+        "lon": 163.103364,
+        "height_m": 825094.31
+      },
+      "relative": {
+        "elevation": 71.404,
+        "azimuth": 8.294,
+        "distance_km": 864.815
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:20+00:00",
+      "geodesic": {
+        "lat": 57.882038,
+        "lon": 162.738751,
+        "height_m": 824979.85
+      },
+      "relative": {
+        "elevation": 76.186,
+        "azimuth": 4.54,
+        "distance_km": 846.476
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:30+00:00",
+      "geodesic": {
+        "lat": 57.314253,
+        "lon": 162.384138,
+        "height_m": 824864.39
+      },
+      "relative": {
+        "elevation": 81.009,
+        "azimuth": 356.534,
+        "distance_km": 833.78
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:40+00:00",
+      "geodesic": {
+        "lat": 56.745659,
+        "lon": 162.039022,
+        "height_m": 824748.0
+      },
+      "relative": {
+        "elevation": 85.371,
+        "azimuth": 331.509,
+        "distance_km": 826.986
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:57:50+00:00",
+      "geodesic": {
+        "lat": 56.176294,
+        "lon": 161.702931,
+        "height_m": 824630.74
+      },
+      "relative": {
+        "elevation": 86.023,
+        "azimuth": 257.18,
+        "distance_km": 826.243
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:00+00:00",
+      "geodesic": {
+        "lat": 55.606193,
+        "lon": 161.375423,
+        "height_m": 824512.69
+      },
+      "relative": {
+        "elevation": 81.978,
+        "azimuth": 223.584,
+        "distance_km": 831.566
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:10+00:00",
+      "geodesic": {
+        "lat": 55.035389,
+        "lon": 161.056082,
+        "height_m": 824393.9
+      },
+      "relative": {
+        "elevation": 77.175,
+        "azimuth": 213.85,
+        "distance_km": 842.841
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:20+00:00",
+      "geodesic": {
+        "lat": 54.463914,
+        "lon": 160.744521,
+        "height_m": 824274.45
+      },
+      "relative": {
+        "elevation": 72.362,
+        "azimuth": 209.55,
+        "distance_km": 859.832
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:30+00:00",
+      "geodesic": {
+        "lat": 53.891795,
+        "lon": 160.440371,
+        "height_m": 824154.4
+      },
+      "relative": {
+        "elevation": 67.699,
+        "azimuth": 207.163,
+        "distance_km": 882.208
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:40+00:00",
+      "geodesic": {
+        "lat": 53.319061,
+        "lon": 160.143288,
+        "height_m": 824033.82
+      },
+      "relative": {
+        "elevation": 63.253,
+        "azimuth": 205.657,
+        "distance_km": 909.57
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:58:50+00:00",
+      "geodesic": {
+        "lat": 52.745737,
+        "lon": 159.852948,
+        "height_m": 823912.78
+      },
+      "relative": {
+        "elevation": 59.056,
+        "azimuth": 204.626,
+        "distance_km": 941.48
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:00+00:00",
+      "geodesic": {
+        "lat": 52.171847,
+        "lon": 159.569044,
+        "height_m": 823791.36
+      },
+      "relative": {
+        "elevation": 55.124,
+        "azimuth": 203.879,
+        "distance_km": 977.49
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:10+00:00",
+      "geodesic": {
+        "lat": 51.597414,
+        "lon": 159.29129,
+        "height_m": 823669.62
+      },
+      "relative": {
+        "elevation": 51.459,
+        "azimuth": 203.317,
+        "distance_km": 1017.161
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:20+00:00",
+      "geodesic": {
+        "lat": 51.022459,
+        "lon": 159.019412,
+        "height_m": 823547.62
+      },
+      "relative": {
+        "elevation": 48.054,
+        "azimuth": 202.88,
+        "distance_km": 1060.079
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:30+00:00",
+      "geodesic": {
+        "lat": 50.447002,
+        "lon": 158.753153,
+        "height_m": 823425.45
+      },
+      "relative": {
+        "elevation": 44.897,
+        "azimuth": 202.533,
+        "distance_km": 1105.861
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:40+00:00",
+      "geodesic": {
+        "lat": 49.871063,
+        "lon": 158.49227,
+        "height_m": 823303.17
+      },
+      "relative": {
+        "elevation": 41.971,
+        "azimuth": 202.252,
+        "distance_km": 1154.163
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T10:59:50+00:00",
+      "geodesic": {
+        "lat": 49.294659,
+        "lon": 158.236534,
+        "height_m": 823180.86
+      },
+      "relative": {
+        "elevation": 39.26,
+        "azimuth": 202.022,
+        "distance_km": 1204.675
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:00+00:00",
+      "geodesic": {
+        "lat": 48.717808,
+        "lon": 157.985726,
+        "height_m": 823058.58
+      },
+      "relative": {
+        "elevation": 36.747,
+        "azimuth": 201.83,
+        "distance_km": 1257.128
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:10+00:00",
+      "geodesic": {
+        "lat": 48.140525,
+        "lon": 157.739641,
+        "height_m": 822936.41
+      },
+      "relative": {
+        "elevation": 34.413,
+        "azimuth": 201.669,
+        "distance_km": 1311.282
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:20+00:00",
+      "geodesic": {
+        "lat": 47.562827,
+        "lon": 157.498082,
+        "height_m": 822814.42
+      },
+      "relative": {
+        "elevation": 32.242,
+        "azimuth": 201.532,
+        "distance_km": 1366.931
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:30+00:00",
+      "geodesic": {
+        "lat": 46.984727,
+        "lon": 157.260865,
+        "height_m": 822692.68
+      },
+      "relative": {
+        "elevation": 30.219,
+        "azimuth": 201.416,
+        "distance_km": 1423.893
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:40+00:00",
+      "geodesic": {
+        "lat": 46.40624,
+        "lon": 157.027813,
+        "height_m": 822571.26
+      },
+      "relative": {
+        "elevation": 28.329,
+        "azimuth": 201.317,
+        "distance_km": 1482.012
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:00:50+00:00",
+      "geodesic": {
+        "lat": 45.827379,
+        "lon": 156.79876,
+        "height_m": 822450.24
+      },
+      "relative": {
+        "elevation": 26.56,
+        "azimuth": 201.231,
+        "distance_km": 1541.15
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:00+00:00",
+      "geodesic": {
+        "lat": 45.248156,
+        "lon": 156.573545,
+        "height_m": 822329.69
+      },
+      "relative": {
+        "elevation": 24.901,
+        "azimuth": 201.158,
+        "distance_km": 1601.188
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:10+00:00",
+      "geodesic": {
+        "lat": 44.668583,
+        "lon": 156.352018,
+        "height_m": 822209.69
+      },
+      "relative": {
+        "elevation": 23.34,
+        "azimuth": 201.094,
+        "distance_km": 1662.024
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:20+00:00",
+      "geodesic": {
+        "lat": 44.088671,
+        "lon": 156.134035,
+        "height_m": 822090.29
+      },
+      "relative": {
+        "elevation": 21.869,
+        "azimuth": 201.039,
+        "distance_km": 1723.566
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:30+00:00",
+      "geodesic": {
+        "lat": 43.508432,
+        "lon": 155.919458,
+        "height_m": 821971.58
+      },
+      "relative": {
+        "elevation": 20.478,
+        "azimuth": 200.992,
+        "distance_km": 1785.735
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:40+00:00",
+      "geodesic": {
+        "lat": 42.927876,
+        "lon": 155.708157,
+        "height_m": 821853.63
+      },
+      "relative": {
+        "elevation": 19.162,
+        "azimuth": 200.951,
+        "distance_km": 1848.462
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:01:50+00:00",
+      "geodesic": {
+        "lat": 42.347013,
+        "lon": 155.500007,
+        "height_m": 821736.52
+      },
+      "relative": {
+        "elevation": 17.912,
+        "azimuth": 200.915,
+        "distance_km": 1911.685
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:00+00:00",
+      "geodesic": {
+        "lat": 41.765852,
+        "lon": 155.29489,
+        "height_m": 821620.3
+      },
+      "relative": {
+        "elevation": 16.723,
+        "azimuth": 200.885,
+        "distance_km": 1975.35
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:10+00:00",
+      "geodesic": {
+        "lat": 41.184402,
+        "lon": 155.09269,
+        "height_m": 821505.06
+      },
+      "relative": {
+        "elevation": 15.59,
+        "azimuth": 200.859,
+        "distance_km": 2039.409
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:20+00:00",
+      "geodesic": {
+        "lat": 40.602673,
+        "lon": 154.893301,
+        "height_m": 821390.87
+      },
+      "relative": {
+        "elevation": 14.508,
+        "azimuth": 200.837,
+        "distance_km": 2103.819
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:30+00:00",
+      "geodesic": {
+        "lat": 40.020672,
+        "lon": 154.696618,
+        "height_m": 821277.8
+      },
+      "relative": {
+        "elevation": 13.472,
+        "azimuth": 200.818,
+        "distance_km": 2168.542
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:40+00:00",
+      "geodesic": {
+        "lat": 39.438407,
+        "lon": 154.502543,
+        "height_m": 821165.92
+      },
+      "relative": {
+        "elevation": 12.479,
+        "azimuth": 200.802,
+        "distance_km": 2233.546
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:02:50+00:00",
+      "geodesic": {
+        "lat": 38.855887,
+        "lon": 154.310979,
+        "height_m": 821055.3
+      },
+      "relative": {
+        "elevation": 11.525,
+        "azimuth": 200.789,
+        "distance_km": 2298.798
+      }
+    },
+    {
+      "pass_id": 2,
+      "timestamp": "2025-04-28T11:03:00+00:00",
+      "geodesic": {
+        "lat": 38.273119,
+        "lon": 154.121836,
+        "height_m": 820946.01
+      },
+      "relative": {
+        "elevation": 10.608,
+        "azimuth": 200.779,
+        "distance_km": 2364.272
+      }
+    }
+  ]
+}
